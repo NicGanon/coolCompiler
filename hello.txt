@@ -1,0 +1,12 @@
+main()
+{
+   int a,b,e,f,x,y,z;
+   while(a>b)
+    {
+    	if(e<f)
+       {
+           x=y+z;
+       }
+       a=x-b;
+    }       
+}

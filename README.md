@@ -1,1 +1,4 @@
-hello, this is a cool compiler whick made by nicganon. I'm learning compiler now. 
+This is a simple compiler which include lexer and parer for C porgamming laguage.
+
+The pogram is not finished.
+
